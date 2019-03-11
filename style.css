@@ -1,0 +1,7 @@
+.awesome:hover{
+	border: 1px solid blue;
+	border-radius: 5px;
+}
+.hello:hover{
+    width: 75%;
+}
